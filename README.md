@@ -2,4 +2,4 @@
 ---
 (!) Moja pierwsza strona html (!)
 
-https://majkelangelo07.github.io/-/najpiekniejszezabytki.html
+https://majkelangelo07.github.io/1html/najpiekniejszezabytki.html
