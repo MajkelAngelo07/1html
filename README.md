@@ -2,4 +2,4 @@
 ---
 (!) Moja pierwsza strona html (!)
 
-https://majkelangelo07.github.io/WDI11_Ba-czkiewicz/nowastrona.html
+https://majkelangelo07.github.io/-/najpiekniejszezabytki.html
